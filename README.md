@@ -1,4 +1,4 @@
-# Voice-Enabled IDE with LangGraph
+# llm-voice-enable-ide
 
 A voice-controlled IDE interface built using LangGraph and GPT-4, enabling natural language commands to control your development environment.
 
